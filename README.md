@@ -6,4 +6,4 @@ Estudo do recurso minimal api do .net 6. Projeto simples para cadastro de tarefa
    - Dapper
 - Projeto Tarefas.Api.EFCoreInMemory
    - Minimal api
-   - Entity Framework Core 6 In Momory
+   - Entity Framework Core 6 In Memory
